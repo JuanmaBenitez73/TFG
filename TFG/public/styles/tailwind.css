@@ -1,4 +1,7 @@
 /*! tailwindcss v4.1.6 | MIT License | https://tailwindcss.com */
+.block {
+  display: block;
+}
 body {
   background-color: lightgray;
 }
